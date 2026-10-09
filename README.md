@@ -20,7 +20,7 @@ Au tennis, on dit souvent qu'un match « se gagne au service ». Ce projet véri
 
 ## 🗂️ Dataset
 
-Données issues de **Kaggle**, qui reprend le dépôt open source [tennis_atp de Jeff Sackmann](https://github.com/JeffSackmann/tennis_atp) (licence CC BY-NC-SA 4.0).
+Données issues de **Kaggle**, qui reprend le dépôt open source [tennis_atp de Jeff Sackmann](https://www.kaggle.com/datasets/warcoder/atp-tennis-rankings-results-and-stats1968-2023) (licence CC BY-NC-SA 4.0).
 
 | Fichier | Contenu | Utilisation |
 | --- | --- | --- |
